@@ -1,0 +1,14 @@
+E:\Repos\Curso C#\Project Array operations\Mini Array Challenge\Mini Array Challenge\bin\Debug\net8.0\Mini Array Challenge.exe
+E:\Repos\Curso C#\Project Array operations\Mini Array Challenge\Mini Array Challenge\bin\Debug\net8.0\Mini Array Challenge.deps.json
+E:\Repos\Curso C#\Project Array operations\Mini Array Challenge\Mini Array Challenge\bin\Debug\net8.0\Mini Array Challenge.runtimeconfig.json
+E:\Repos\Curso C#\Project Array operations\Mini Array Challenge\Mini Array Challenge\bin\Debug\net8.0\Mini Array Challenge.dll
+E:\Repos\Curso C#\Project Array operations\Mini Array Challenge\Mini Array Challenge\bin\Debug\net8.0\Mini Array Challenge.pdb
+E:\Repos\Curso C#\Project Array operations\Mini Array Challenge\Mini Array Challenge\obj\Debug\net8.0\Mini Array Challenge.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Curso C#\Project Array operations\Mini Array Challenge\Mini Array Challenge\obj\Debug\net8.0\Mini Array Challenge.AssemblyInfoInputs.cache
+E:\Repos\Curso C#\Project Array operations\Mini Array Challenge\Mini Array Challenge\obj\Debug\net8.0\Mini Array Challenge.AssemblyInfo.cs
+E:\Repos\Curso C#\Project Array operations\Mini Array Challenge\Mini Array Challenge\obj\Debug\net8.0\Mini Array Challenge.csproj.CoreCompileInputs.cache
+E:\Repos\Curso C#\Project Array operations\Mini Array Challenge\Mini Array Challenge\obj\Debug\net8.0\Mini Array Challenge.dll
+E:\Repos\Curso C#\Project Array operations\Mini Array Challenge\Mini Array Challenge\obj\Debug\net8.0\refint\Mini Array Challenge.dll
+E:\Repos\Curso C#\Project Array operations\Mini Array Challenge\Mini Array Challenge\obj\Debug\net8.0\Mini Array Challenge.pdb
+E:\Repos\Curso C#\Project Array operations\Mini Array Challenge\Mini Array Challenge\obj\Debug\net8.0\Mini Array Challenge.genruntimeconfig.cache
+E:\Repos\Curso C#\Project Array operations\Mini Array Challenge\Mini Array Challenge\obj\Debug\net8.0\ref\Mini Array Challenge.dll
