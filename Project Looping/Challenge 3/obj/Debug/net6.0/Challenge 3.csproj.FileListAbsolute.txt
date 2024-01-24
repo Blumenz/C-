@@ -1,0 +1,14 @@
+E:\Repos\Curso C#\FreeCodeCamp Looping\Challenge 3\obj\Debug\net6.0\Challenge 3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Curso C#\FreeCodeCamp Looping\Challenge 3\obj\Debug\net6.0\Challenge 3.AssemblyInfoInputs.cache
+E:\Repos\Curso C#\FreeCodeCamp Looping\Challenge 3\obj\Debug\net6.0\Challenge 3.AssemblyInfo.cs
+E:\Repos\Curso C#\FreeCodeCamp Looping\Challenge 3\obj\Debug\net6.0\Challenge 3.csproj.CoreCompileInputs.cache
+E:\Repos\Curso C#\FreeCodeCamp Looping\Challenge 3\bin\Debug\net6.0\Challenge 3.exe
+E:\Repos\Curso C#\FreeCodeCamp Looping\Challenge 3\bin\Debug\net6.0\Challenge 3.deps.json
+E:\Repos\Curso C#\FreeCodeCamp Looping\Challenge 3\bin\Debug\net6.0\Challenge 3.runtimeconfig.json
+E:\Repos\Curso C#\FreeCodeCamp Looping\Challenge 3\bin\Debug\net6.0\Challenge 3.dll
+E:\Repos\Curso C#\FreeCodeCamp Looping\Challenge 3\bin\Debug\net6.0\Challenge 3.pdb
+E:\Repos\Curso C#\FreeCodeCamp Looping\Challenge 3\obj\Debug\net6.0\Challenge 3.dll
+E:\Repos\Curso C#\FreeCodeCamp Looping\Challenge 3\obj\Debug\net6.0\refint\Challenge 3.dll
+E:\Repos\Curso C#\FreeCodeCamp Looping\Challenge 3\obj\Debug\net6.0\Challenge 3.pdb
+E:\Repos\Curso C#\FreeCodeCamp Looping\Challenge 3\obj\Debug\net6.0\Challenge 3.genruntimeconfig.cache
+E:\Repos\Curso C#\FreeCodeCamp Looping\Challenge 3\obj\Debug\net6.0\ref\Challenge 3.dll
