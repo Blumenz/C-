@@ -1,0 +1,14 @@
+E:\Repos\Curso C#\FreeCodeCamp Boolean\Boolean Challenge\bin\Debug\net6.0\Boolean Challenge.exe
+E:\Repos\Curso C#\FreeCodeCamp Boolean\Boolean Challenge\bin\Debug\net6.0\Boolean Challenge.deps.json
+E:\Repos\Curso C#\FreeCodeCamp Boolean\Boolean Challenge\bin\Debug\net6.0\Boolean Challenge.runtimeconfig.json
+E:\Repos\Curso C#\FreeCodeCamp Boolean\Boolean Challenge\bin\Debug\net6.0\Boolean Challenge.dll
+E:\Repos\Curso C#\FreeCodeCamp Boolean\Boolean Challenge\bin\Debug\net6.0\Boolean Challenge.pdb
+E:\Repos\Curso C#\FreeCodeCamp Boolean\Boolean Challenge\obj\Debug\net6.0\Boolean Challenge.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Curso C#\FreeCodeCamp Boolean\Boolean Challenge\obj\Debug\net6.0\Boolean Challenge.AssemblyInfoInputs.cache
+E:\Repos\Curso C#\FreeCodeCamp Boolean\Boolean Challenge\obj\Debug\net6.0\Boolean Challenge.AssemblyInfo.cs
+E:\Repos\Curso C#\FreeCodeCamp Boolean\Boolean Challenge\obj\Debug\net6.0\Boolean Challenge.csproj.CoreCompileInputs.cache
+E:\Repos\Curso C#\FreeCodeCamp Boolean\Boolean Challenge\obj\Debug\net6.0\Boolean Challenge.dll
+E:\Repos\Curso C#\FreeCodeCamp Boolean\Boolean Challenge\obj\Debug\net6.0\refint\Boolean Challenge.dll
+E:\Repos\Curso C#\FreeCodeCamp Boolean\Boolean Challenge\obj\Debug\net6.0\Boolean Challenge.pdb
+E:\Repos\Curso C#\FreeCodeCamp Boolean\Boolean Challenge\obj\Debug\net6.0\Boolean Challenge.genruntimeconfig.cache
+E:\Repos\Curso C#\FreeCodeCamp Boolean\Boolean Challenge\obj\Debug\net6.0\ref\Boolean Challenge.dll
