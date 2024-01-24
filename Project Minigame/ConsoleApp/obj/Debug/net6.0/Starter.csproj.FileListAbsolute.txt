@@ -1,0 +1,14 @@
+E:\Repos\Curso C#\Project Minigame\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.exe
+E:\Repos\Curso C#\Project Minigame\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.deps.json
+E:\Repos\Curso C#\Project Minigame\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.runtimeconfig.json
+E:\Repos\Curso C#\Project Minigame\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.dll
+E:\Repos\Curso C#\Project Minigame\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.pdb
+E:\Repos\Curso C#\Project Minigame\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Curso C#\Project Minigame\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.AssemblyInfoInputs.cache
+E:\Repos\Curso C#\Project Minigame\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.AssemblyInfo.cs
+E:\Repos\Curso C#\Project Minigame\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.csproj.CoreCompileInputs.cache
+E:\Repos\Curso C#\Project Minigame\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.dll
+E:\Repos\Curso C#\Project Minigame\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\refint\Starter.dll
+E:\Repos\Curso C#\Project Minigame\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.pdb
+E:\Repos\Curso C#\Project Minigame\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.genruntimeconfig.cache
+E:\Repos\Curso C#\Project Minigame\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\ref\Starter.dll
