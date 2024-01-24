@@ -1,0 +1,14 @@
+E:\Repos\Curso C#\Project Create Methods in console apps\Methods_Return_Values\bin\Debug\net8.0\Methods_Return_Values.exe
+E:\Repos\Curso C#\Project Create Methods in console apps\Methods_Return_Values\bin\Debug\net8.0\Methods_Return_Values.deps.json
+E:\Repos\Curso C#\Project Create Methods in console apps\Methods_Return_Values\bin\Debug\net8.0\Methods_Return_Values.runtimeconfig.json
+E:\Repos\Curso C#\Project Create Methods in console apps\Methods_Return_Values\bin\Debug\net8.0\Methods_Return_Values.dll
+E:\Repos\Curso C#\Project Create Methods in console apps\Methods_Return_Values\bin\Debug\net8.0\Methods_Return_Values.pdb
+E:\Repos\Curso C#\Project Create Methods in console apps\Methods_Return_Values\obj\Debug\net8.0\Methods_Return_Values.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Curso C#\Project Create Methods in console apps\Methods_Return_Values\obj\Debug\net8.0\Methods_Return_Values.AssemblyInfoInputs.cache
+E:\Repos\Curso C#\Project Create Methods in console apps\Methods_Return_Values\obj\Debug\net8.0\Methods_Return_Values.AssemblyInfo.cs
+E:\Repos\Curso C#\Project Create Methods in console apps\Methods_Return_Values\obj\Debug\net8.0\Methods_Return_Values.csproj.CoreCompileInputs.cache
+E:\Repos\Curso C#\Project Create Methods in console apps\Methods_Return_Values\obj\Debug\net8.0\Methods_Return_Values.dll
+E:\Repos\Curso C#\Project Create Methods in console apps\Methods_Return_Values\obj\Debug\net8.0\refint\Methods_Return_Values.dll
+E:\Repos\Curso C#\Project Create Methods in console apps\Methods_Return_Values\obj\Debug\net8.0\Methods_Return_Values.pdb
+E:\Repos\Curso C#\Project Create Methods in console apps\Methods_Return_Values\obj\Debug\net8.0\Methods_Return_Values.genruntimeconfig.cache
+E:\Repos\Curso C#\Project Create Methods in console apps\Methods_Return_Values\obj\Debug\net8.0\ref\Methods_Return_Values.dll

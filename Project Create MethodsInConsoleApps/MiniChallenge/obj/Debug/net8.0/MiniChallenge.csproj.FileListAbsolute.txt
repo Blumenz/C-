@@ -1,0 +1,14 @@
+E:\Repos\Curso C#\Project Create Methods in console apps\MiniChallenge\obj\Debug\net8.0\MiniChallenge.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Curso C#\Project Create Methods in console apps\MiniChallenge\obj\Debug\net8.0\MiniChallenge.AssemblyInfoInputs.cache
+E:\Repos\Curso C#\Project Create Methods in console apps\MiniChallenge\obj\Debug\net8.0\MiniChallenge.AssemblyInfo.cs
+E:\Repos\Curso C#\Project Create Methods in console apps\MiniChallenge\obj\Debug\net8.0\MiniChallenge.csproj.CoreCompileInputs.cache
+E:\Repos\Curso C#\Project Create Methods in console apps\MiniChallenge\bin\Debug\net8.0\MiniChallenge.exe
+E:\Repos\Curso C#\Project Create Methods in console apps\MiniChallenge\bin\Debug\net8.0\MiniChallenge.deps.json
+E:\Repos\Curso C#\Project Create Methods in console apps\MiniChallenge\bin\Debug\net8.0\MiniChallenge.runtimeconfig.json
+E:\Repos\Curso C#\Project Create Methods in console apps\MiniChallenge\bin\Debug\net8.0\MiniChallenge.dll
+E:\Repos\Curso C#\Project Create Methods in console apps\MiniChallenge\bin\Debug\net8.0\MiniChallenge.pdb
+E:\Repos\Curso C#\Project Create Methods in console apps\MiniChallenge\obj\Debug\net8.0\MiniChallenge.dll
+E:\Repos\Curso C#\Project Create Methods in console apps\MiniChallenge\obj\Debug\net8.0\refint\MiniChallenge.dll
+E:\Repos\Curso C#\Project Create Methods in console apps\MiniChallenge\obj\Debug\net8.0\MiniChallenge.pdb
+E:\Repos\Curso C#\Project Create Methods in console apps\MiniChallenge\obj\Debug\net8.0\MiniChallenge.genruntimeconfig.cache
+E:\Repos\Curso C#\Project Create Methods in console apps\MiniChallenge\obj\Debug\net8.0\ref\MiniChallenge.dll
